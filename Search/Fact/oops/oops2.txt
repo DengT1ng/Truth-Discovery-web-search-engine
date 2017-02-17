@@ -1,0 +1,9 @@
+OOPs is Object oriented programming,
+Objects 
+Classes 
+Inheritance 
+Data Abstraction 
+Data Encapsulation 
+Polymorphism 
+Overloading 
+Reusability 

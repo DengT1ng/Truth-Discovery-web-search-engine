@@ -1,0 +1,7 @@
+It is a frame work to create enterprice middleware
+In BMP developer writes JDbc code and sql statements
+In CMP container generates methods to read and write to the database
+session EjBs are mainly used for business logic
+session Ejbs are difficult to reuse
+Entity Ejbs are used for the object model
+Entity Ejbs contains all jdbc code

@@ -1,0 +1,6 @@
+C++ was developed at Bell labs
+Father of c++ is Bjarne Stroustrup
+C++ was developed during 1980
+c++ is object oriented programming
+All programs must contain a single main() function
+ C++ is a superset of C

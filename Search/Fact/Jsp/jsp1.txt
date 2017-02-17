@@ -1,0 +1,5 @@
+JavaServer Pages technology provides a simplified fast way to create dynamic web content JSP technology enables rapid development of web-based applications that are server
+It is plotform Independent
+JSP is a technology that combines HTML and XML markup languages 
+In jsp there is no interface
+Java Server Pages includes scripplets of Servletcode in an Html page

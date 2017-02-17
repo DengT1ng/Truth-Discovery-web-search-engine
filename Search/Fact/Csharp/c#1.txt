@@ -1,0 +1,8 @@
+Microsoft's Anders Hejlsberg, father of the C# programming language
+The first component oriented language in the C/C++ family
+No heap allocation, less GC pressure
+More efficient use of memory
+Everything is an object
+Eliminates “wrapper classes”
+Methods are not virtual by default
+

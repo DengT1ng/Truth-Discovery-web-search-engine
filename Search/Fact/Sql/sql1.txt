@@ -1,0 +1,8 @@
+Sql is a structured query language
+It is used for databases creation
+It is used for databases modification
+SQL is a standard language for accessing and manipulating databases
+SQL is an ANSI (American National Standards Institute) standard 
+The data in RDBMS is stored in database objects called tables
+
+

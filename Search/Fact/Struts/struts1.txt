@@ -1,0 +1,6 @@
+Struts is based on a host of foundational technologies
+Struts architecture as one that follows MVC pattern
+It is used to build Web applications based on Servlet and JSP
+It is Easy to learn and use
+Struts Integrates well with J2EE
+Unified error handling programmatically and declaratively
