@@ -1,0 +1,6 @@
+Create an Office PowerPoint Application object
+Create a new presentation, or open an existing presentation
+An enhanced design time environment 
+The ability to change any of our tools and write your own tools
+Tools with source code that you can use right out of the box
+VB is not only a language it is interactive development environment 

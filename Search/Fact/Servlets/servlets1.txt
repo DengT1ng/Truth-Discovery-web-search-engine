@@ -1,0 +1,6 @@
+Servlets are the Java technology for serving HTTP requests
+Basic servlet functionalities implemented by the basic HTTP servlet classes 
+Servlets serve the Service requests
+Interface defining methods that all servlets implement
+Servlet specification is a standard
+Good support for security and  data base access

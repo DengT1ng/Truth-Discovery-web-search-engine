@@ -1,0 +1,6 @@
+Html is HyperText Markup Language
+it is the predominant markup language for Web pages
+HTML is written in the form of tags
+Files and URLs containing HTML often have a .html or .htm filename extension.
+Elements are the basic structure for HTML markup
+Elements have two basic properties: attributes and content

@@ -1,0 +1,11 @@
+XML stands for EXtensible Markup Language  
+XML is a markup language much like HTML 
+XML was designed to describe data 
+XML tags are not predefined
+You must define your own tags 
+All elements must have a closing tag 
+Tags are case sensitive
+Elements must be properly nested
+Documents must have a Root element 
+Attribute values must be quoted
+White space in a document is not truncated

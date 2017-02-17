@@ -1,0 +1,6 @@
+.NET is the Microsoft’s platform for XML based Web services.
+Applications can communicate via the SOAP or XML Messages
+It is neither an Operating System or Programming Language.
+.NET has introduced a new language C#
+C# is not an attempt to replace all existing language
+.NET component model is considerably simpler than COM.

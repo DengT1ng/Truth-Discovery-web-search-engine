@@ -1,0 +1,7 @@
+DHTML is NOT a language
+DHTML combines HTML, JavaScript, DOM, and CSS
+DHTML is a TERM describing the art of making dynamic and interactive web pages.
+DHTML supports JavaScript 
+DHTML supports the Document Object Model (DOM) 
+DHTML supports HTML Events 
+DHTML supports Cascading Style Sheets 

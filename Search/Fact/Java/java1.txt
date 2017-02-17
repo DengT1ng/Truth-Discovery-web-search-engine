@@ -1,0 +1,6 @@
+It should be "simple, object oriented, and familiar". 
+It should be "robust and secure". 
+It should be "architecture neutral and portable". 
+It should execute with "high performance". 
+It should be "interpreted, threaded, and dynamic". 
+java is platform indepentent language

@@ -1,0 +1,7 @@
+Main is the starting point of the program
+father of C language is Dennis Ritchie
+C was developed at Bell Laboratories
+principles and ideas were taken from the earlier language B
+c is a high level language
+C is a powerful, flexible language
+www.basicsCprogramming.com
